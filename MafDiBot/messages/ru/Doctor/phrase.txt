@@ -1,0 +1,3 @@
+﻿ В истории болезни **{Doctor00}** пометил: *{Message}*
+ **{cDoctor00}** советует: *{Message}*
+ **{cDoctor00}** смеется: *{Message}*

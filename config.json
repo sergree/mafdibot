@@ -1,0 +1,13 @@
+{
+  "Token": "ENTER_DISCORD_BOT_TOKEN_HERE",
+  "Language": "ru",
+  "GameString": "https://github.com/sergree",
+  "GuildId": 500000000000000000,
+  "ChannelMainId": 500000000000000000,
+  "ChannelMainVoiceId": 500000000000000000,
+  "CategoryId": 500000000000000000,
+  "ChannelDonorId": 500000000000000000,
+  "ChannelAFKVoiceId": 500000000000000000,
+  "RoleMainId": 500000000000000000,
+  "RoleBadId": 500000000000000000
+}

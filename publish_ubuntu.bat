@@ -1,0 +1,1 @@
+dotnet publish -c Release -r ubuntu.18.04-x64

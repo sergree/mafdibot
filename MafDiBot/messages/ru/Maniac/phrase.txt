@@ -1,0 +1,3 @@
+﻿ На теле нашли надпись **{Maniac01}**: *{Message}*
+ **{cManiac00}** прорычал: *{Message}*
+ **{cManiac00}** воет: *{Message}*
