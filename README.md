@@ -37,7 +37,7 @@
 
 # Запуск
 
-Необходимо отредактировать файл `config.json`:
+[Скачайте] текущую версию бота и отредактируйте файл `config.json`:
 - `Token` - сюда необходимо вставить токен **[Discord]** бота
 - `GuildId` - **ID** (Вашего) сервера на котором бот будет работать
 - `ChannelMainId` - **ID** основного текстового канала, на котором будет вестись игра
@@ -48,7 +48,7 @@
 - `RoleMainId` - **ID** основной роли, которая выдается всем играющим в данный момент игрокам
 - `RoleBadId` - **ID** тюремной роли сервера (не связанной с игрой). Используется чтобы автоматически выгонять из игры пользователя, нарушевшего правила Вашего сообщества
 
-Запустить `Mafia Discord Bot.exe` на **Windows** или `Mafia Discord Bot` на **Linux**.
+Запустить `Mafia Discord Bot.exe` на **Windows** или `Mafia Discord Bot` на **Ubuntu**.
 
 Для работы бот должен владеть этими правами на сервере **Discord**:
 - `Управлять ролями`
@@ -85,3 +85,4 @@
 [Ploho]: http://lurkmore.to/%D0%91%D1%8B%D0%B4%D0%BB%D0%BE%D0%BA%D0%BE%D0%B4%D0%B5%D1%80
 [Metanit]: https://metanit.com/sharp/tutorial/
 [Hack]: https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannels
+[Скачайте]: https://github.com/sergree/mafdibot/releases/tag/0.0.2.7
